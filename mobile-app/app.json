@@ -1,0 +1,15 @@
+{
+  "expo": {
+    "name": "Market Gelsin",
+    "slug": "market-gelsin-mobile",
+    "version": "0.1.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "android": {
+      "package": "com.erenesal.marketgelsin"
+    }
+  }
+}
